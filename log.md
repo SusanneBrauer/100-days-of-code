@@ -17,9 +17,16 @@ So essentially there will be 3 work streams:
 ### Day 1: March 7, 2022
 
 **Plan For Today**:
-- Finish HTML FUndamentals Chapter on the CodeCademy course
-- Layout Simstracker landing page (logged in/logged out?)
+- ~~Finish HTML FUndamentals Chapter on the CodeCademy course~~
+- ~~Layout Simstracker landing page (logged in/logged out?)~~
 - Layout Sims Household summary page for Simtracker
 - Layout single Sims summary page for Simstracker
-- setup HTML for blog summary page (blog maybe about this journey and gamesfor the moment it'll be mostly for practice at this point)
+- ~~setup HTML for blog summary page (blog maybe about this journey and gamesfor the moment it'll be mostly for practice at this point)~~
 *going to add the blog to work streams in Day 0 list*
+
+**Today's Progress**: Studying, layouting and my little blog
+
+**Thoughts:** I have completed the HTML chapter of my course, I really like the idea of the semantic tags. I have then used the HTML to start writing this little blog using those skills as my practice for the day. I will add a link to the blog to the work links below
+My project, which will be a website to track details for Sims in The Sims 4™, still needs some layout work before I can dive into writing actual code for it so the coding for that will be part of the challenge later. I did some first laytou work on the project but as much as I was hoping to do as I was spend more time working through the course and writing this blog which in way felt more important in the scope of the challenge.
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://http://www.susannebrauer.com)
