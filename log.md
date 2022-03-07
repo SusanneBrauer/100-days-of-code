@@ -10,6 +10,7 @@ So essentially there will be 3 work streams:
 1) CodeCademy Full Stack Path
 2) Update and improve portfolio website
 3) Creat Sims Tracker
+4) blog for direct practice documenting the journey 
 
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io)
 
