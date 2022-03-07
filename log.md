@@ -29,4 +29,4 @@ So essentially there will be 3 work streams:
 **Thoughts:** I have completed the HTML chapter of my course, I really like the idea of the semantic tags. I have then used the HTML to start writing this little blog using those skills as my practice for the day. I will add a link to the blog to the work links below
 My project, which will be a website to track details for Sims in The Sims 4™, still needs some layout work before I can dive into writing actual code for it so the coding for that will be part of the challenge later. I did some first laytou work on the project but as much as I was hoping to do as I was spend more time working through the course and writing this blog which in way felt more important in the scope of the challenge.
 
-**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://http://www.susannebrauer.com)
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com)
