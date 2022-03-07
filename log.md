@@ -12,3 +12,13 @@ So essentially there will be 3 work streams:
 3) Creat Sims Tracker
 
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io)
+
+### Day 1: March 7, 2022
+
+**Plan For Today**:
+- Finish HTML FUndamentals Chapter on the CodeCademy course
+- Layout Simstracker landing page (logged in/logged out?)
+- Layout Sims Household summary page for Simtracker
+- Layout single Sims summary page for Simstracker
+- setup HTML for blog summary page (blog maybe about this journey and gamesfor the moment it'll be mostly for practice at this point)
+*going to add the blog to work streams in Day 0 list*
