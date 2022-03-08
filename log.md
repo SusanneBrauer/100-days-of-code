@@ -9,7 +9,7 @@
 So essentially there will be 3 work streams:
 1) CodeCademy Full Stack Path
 2) Update and improve portfolio website
-3) Creat Sims Tracker
+3) Create Sims Tracker
 4) blog for direct practice documenting the journey 
 
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io)
@@ -30,3 +30,12 @@ So essentially there will be 3 work streams:
 My project, which will be a website to track details for Sims in The Sims 4™, still needs some layout work before I can dive into writing actual code for it so the coding for that will be part of the challenge later. I did some first laytou work on the project but as much as I was hoping to do as I was spend more time working through the course and writing this blog which in way felt more important in the scope of the challenge.
 
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com)
+
+### Day 2: March 8, 2022
+
+**Plan For Today**:
+- Finish CSS Fundamentals Chapter on the CodeCademy Course
+- add CSS to the Blog
+- start coding HTML for Sims tracker landing page
+- Layout Sims Household summary page for Simtracker
+- Layout single Sims summary page for Simstracker
