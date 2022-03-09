@@ -26,7 +26,7 @@ So essentially there will be 3 work streams:
 
 **Today's Progress**: Studying, layouting and my little blog
 
-**Thoughts:** I have completed the HTML chapter of my course, I really like the idea of the semantic tags. I have then used the HTML to start writing this little blog using those skills as my practice for the day. I will add a link to the blog to the work links below
+**Thoughts:** I have completed the HTML chapter of my course, I really like the idea of the semantic tags. I have then used the HTML to start writing this little blog using those skills as my practice for the day. I will add a link to the blog to the work links below.  
 My project, which will be a website to track details for Sims in The Sims 4™, still needs some layout work before I can dive into writing actual code for it so the coding for that will be part of the challenge later. I did some first laytou work on the project but as much as I was hoping to do as I was spend more time working through the course and writing this blog which in way felt more important in the scope of the challenge.
 
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com)
@@ -34,8 +34,18 @@ My project, which will be a website to track details for Sims in The Sims 4™, 
 ### Day 2: March 8, 2022
 
 **Plan For Today**:
-- Finish CSS Fundamentals Chapter on the CodeCademy Course
-- add CSS to the Blog
-- start coding HTML for Sims tracker landing page
+- ~Finish CSS Fundamentals Chapter on the CodeCademy Course~
+- ~add CSS to the Blog~
+- ~start coding HTML for Sims tracker landing page~
 - Layout Sims Household summary page for Simtracker
 - Layout single Sims summary page for Simstracker
+
+**Today's Progress**: Styling galore and setting up the Sims Tracker project also set up git for my work
+
+**Thoughts:** The day got away from me a little so it was late night, but I managed to get through my Fundamentals of CSS chapter as planned. And put some first CSS on my blog and it is starting to look a little nicer.
+In the CSS chapter there were quite a few things I was familiar with from some previous studying, but there were also some new things. Fro example the sticky positioning option was new to me. I also finally got a better understanding of positioning and of the clear property which was a bit of mystery to me before.  
+I also finally set git up properly to track my work on the projects, but that is part of what was eating some of my time.  
+For the Sims Tracker it got late to get on with the layout and to do some proper work on the landing page, so I just setup the webspace and wrote a little placeholder with some HTML and CSS.  
+So I didn't get all my tasks done but I'm still happy with what did get done ine the end.
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/)
