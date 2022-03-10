@@ -19,11 +19,11 @@ So essentially there will be 3 work streams:
 
 **Plan For Today**:
 
-- ~~Finish HTML FUndamentals Chapter on the CodeCademy course~~
-- ~~Layout Simstracker landing page (logged in/logged out?)~~
+- Finish HTML FUndamentals Chapter on the CodeCademy course [X]
+- Layout Simstracker landing page (logged in/logged out?) [X]
 - Layout Sims Household summary page for Simtracker
 - Layout single Sims summary page for Simstracker
-- ~~setup HTML for blog summary page (blog maybe about this journey and gamesfor the moment it'll be mostly for practice at this point)~~
+- setup HTML for blog summary page (blog maybe about this journey and gamesfor the moment it'll be mostly for practice at this point) [X]
   _going to add the blog to work streams in Day 0 list_
 
 **Today's Progress**: Studying, layouting and my little blog
@@ -37,9 +37,9 @@ My project, which will be a website to track details for Sims in The Sims 4™, 
 
 **Plan For Today**:
 
-- ~~Finish CSS Fundamentals Chapter on the CodeCademy Course~~
-- ~~add CSS to the Blog~~
-- ~~start coding HTML for Sims tracker landing page~~
+- Finish CSS Fundamentals Chapter on the CodeCademy Course [X]
+- add CSS to the Blog [X]
+- start coding HTML for Sims tracker landing page [X]
 - Layout Sims Household summary page for Simtracker
 - Layout single Sims summary page for Simstracker
 
@@ -57,11 +57,11 @@ So I didn't get all my tasks done but I'm still happy with what did get done ine
 
 **Plan For Today**:
 
-- ~~Course work on local developing and website deployment~~
-- ~~HTML/CSS for Sims tracker landing page~~
-- Layout Sims Household summary page for Simtracker
-- Layout single Sims summary page for Simstracker
-- further style improvement on Blog
+- Course work on local developing and website deployment [X]
+- HTML/CSS for Sims tracker landing page [X]
+- Layout Sims Household summary page for Simtracker [ ]
+- Layout single Sims summary page for Simstracker [ ]
+- further style improvement on Blog [ ]
 
 **Today's Progress**: First "free"(or local) Codecademy project and proper start on Sims Tracker project.
 
@@ -79,7 +79,19 @@ So Overall I would have liked to get a bit more work done on sprucing up this bl
 
 **Plan For Today**:
 
-- Course work: chapter Improved Styling with CSS (not sure if I can make all of it but I will try)
-- HTML/CSS for Sims tracker landing page Sign up form
+- Course work: chapter Improved Styling with CSS (not sure if I can make all of it but I will try) [X]
+- HTML/CSS for Sims tracker landing page Sign up form [X]
 - further style improvement on Blog
 - Have look revamping my Portfolio
+
+**Today's Progress**: CSS colors and typography; Forms without function
+
+**Thoughts:** I have not gotten too much done today, as I had some doctors apointments and I need to recover from the last couple of late nights of coding.  
+I have done some good work on the simstracker though reactivating coding my knowledge about forms to create the sign up form on the landing page. I want to put a little more polish on it tomorrow by putting a green frame on the active input box. I can't quite remeber how that worked, but I recall that it was possible, so I will have a look at that tomorrow. The page looks like this now:  
+![Sims Tracker Landing Day 4 Status](images/landing-page-day4-status.png)  
+For the Course work I have done more CSS mostly on colors and typography which was mostly familiar but still good to re-do and reactivate the knowledge. I'm planning to finish the chapter tomorrow it's quite a a long one though but I want to get out of the familiar zone so I can take another shot at under JavaScript.  
+I think the work on polishing the blog and planning the portfolio revamp will have to wait till over the weekend. I need to get better at gauging how much work I can get done in a day. I don't like these half finished lists! I think I will also have to start bundlling the days up for the blog in some improvised from of pagination to keep some sort of order.
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/)
+
+**Course Completion Status at the end of the day:** 9%
