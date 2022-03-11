@@ -105,6 +105,18 @@ I think the work on polishing the blog and planning the portfolio revamp will ha
 **Plan For Today**:
 
 - Course work: Finish improved CSS chapter[ ]
-- polish sign up form on sims Tracker landing page [ ]
-- fstart HTML for Sims Tracker dashboard [ ]
+- polish sign up form on sims Tracker landing page [X]
+- start HTML for Sims Tracker dashboard [ ]
 - Have a look at revamping my Portfolio [ ]
+
+**Today's Progress**: Slow day, not much done.
+
+**Thoughts:** It's been a slow da on the code front. There was a lot going on thorugh ut the day, so I did not get to spend nearly as mch time as I would have liked with coding or learning.  
+Therefore not much progress on the course, but ome interesting pointers into making sure that clickable elements are recognised as such and how to best do that.
+I did do some small bits of work on the nave to split the journal and projet/challenge nav elemenets. I have also decided that once the first 7 days are done I will bundel the journal entries into weeks to make some sort readable pagination.  
+On The Sims trackers I merly made some changes to the login in and sign up button to make them more 'buttony" and I added a border change to the active inputfields. Again not much but all I had time for today.  
+I shall make up for missed time tomorrow.
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/)
+
+**Course Completion Status at the end of the day:** 9%
