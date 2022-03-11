@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+[Week1](#week1)
+
 ### Day 0: March 6, 2022
 
 **Today's Progress**: Planned for the journey ahead
@@ -15,14 +17,16 @@ So essentially there will be 3 work streams:
 
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io)
 
+## Week1
+
 ### Day 1: March 7, 2022
 
 **Plan For Today**:
 
 - Finish HTML FUndamentals Chapter on the CodeCademy course [X]
 - Layout Simstracker landing page (logged in/logged out?) [X]
-- Layout Sims Household summary page for Simtracker
-- Layout single Sims summary page for Simstracker
+- Layout Sims Household summary page for Simtracker [ ]
+- Layout single Sims summary page for Simstracker [ ]
 - setup HTML for blog summary page (blog maybe about this journey and gamesfor the moment it'll be mostly for practice at this point) [X]
   _going to add the blog to work streams in Day 0 list_
 
@@ -40,8 +44,8 @@ My project, which will be a website to track details for Sims in The Sims 4™, 
 - Finish CSS Fundamentals Chapter on the CodeCademy Course [X]
 - add CSS to the Blog [X]
 - start coding HTML for Sims tracker landing page [X]
-- Layout Sims Household summary page for Simtracker
-- Layout single Sims summary page for Simstracker
+- Layout Sims Household summary page for Simtracker [ ]
+- Layout single Sims summary page for Simstracker [ ]
 
 **Today's Progress**: Styling galore and setting up the Sims Tracker project also set up git for my work
 
@@ -81,8 +85,8 @@ So Overall I would have liked to get a bit more work done on sprucing up this bl
 
 - Course work: chapter Improved Styling with CSS (not sure if I can make all of it but I will try) [X]
 - HTML/CSS for Sims tracker landing page Sign up form [X]
-- further style improvement on Blog
-- Have look revamping my Portfolio
+- further style improvement on Blog [ ]
+- Have a look at revamping my Portfolio [ ]
 
 **Today's Progress**: CSS colors and typography; Forms without function
 
@@ -95,3 +99,12 @@ I think the work on polishing the blog and planning the portfolio revamp will ha
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/)
 
 **Course Completion Status at the end of the day:** 9%
+
+### Day 5: March 11, 2022
+
+**Plan For Today**:
+
+- Course work: Finish improved CSS chapter[ ]
+- polish sign up form on sims Tracker landing page [ ]
+- fstart HTML for Sims Tracker dashboard [ ]
+- Have a look at revamping my Portfolio [ ]
