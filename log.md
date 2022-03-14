@@ -120,3 +120,46 @@ I shall make up for missed time tomorrow.
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/)
 
 **Course Completion Status at the end of the day:** 9%
+
+### Day 6: March 13, 2022
+
+**Plan For Today**:
+
+- Course work: Finish improved CSS chapter [X]
+- start HTML for Sims Tracker dashboard [X]
+- write HTML for Sims Tracker Login page [X]
+- Have a look at revamping my Portfolio [ ]
+
+**Today's Progress**: Good progress after some rest. Forms, tables, typography
+
+**Thoughts:** First things first, yes I was naughty and skipped a day. I just needed some rest after what has been a busy a week and still recovering from being so poorly for a rather long time. But baack in full force today.  
+I have finished the next CSS chapter all about tables, form and font. I took that and used to work on the Sims Tracker project writing the HTML for the login page and changing the Sign up form. to nest the text input into the lable element, which I have never done before but saw in the course and found rather elegant.  
+I also made use of the tables when setting up the dashboard with as staic page with made up examples. the structure and layout for it still need work though.  
+It is coming together, so I'm happy.
+
+Login page:
+![Sims Tracker Login Day 6 Status](images/login-page-day6-status.png)
+
+Dashboard:
+![Sims Tracker Dashboard Day 6 Status](images/dashboard-day6-status.png)
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/)
+
+**Course Completion Status at the end of the day:** 10%
+
+### Day 7: March 14, 2022
+
+**Plan For Today**:
+
+- Course work: Start with Responsive web-design chapter [X]
+- work on concepts for further sims tracker pagesin preparation of writing/updating the code for them [X]
+- Have a look at revamping my Portfolio [ ]
+
+**Today's Progress**: Studying grids and working on layouts
+
+**Thoughts:** Today was overall a bit lighter on programming but I have learned much about grids which I plan to put to work for the Sims Tracker tomorrow.  
+I have done a fair amount of concept work today. With a tool called Figma. I'm so far really happy using it for working out the concepts. I shall put these into prcatice over the next couple of days.
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/)
+
+**Course Completion Status at the end of the day:** 11%
