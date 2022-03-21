@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
-[Week1](#week1)
+[Week 1](#week1)  
+[Week 2](#week2)  
 
 ### Day 0: March 6, 2022
 
@@ -18,6 +19,14 @@ So essentially there will be 3 work streams:
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io)
 
 ## Week1
+
+[Day 1](#day1)  
+[Day 2](#day2)  
+[Day 3](#day3)  
+[Day 4](#day4)  
+[Day 5](#day5)  
+[Day 6](#day6)  
+[Day 7](#day7) 
 
 ### Day 1: March 7, 2022
 
@@ -162,4 +171,40 @@ I have done a fair amount of concept work today. With a tool called Figma. I'm s
 
 **Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/)
 
-**Course Completion Status at the end of the day:** 11%
+**Course Completion Status at the end of the day:** 11%  
+
+## Week2
+
+[Day 8](#day8)  
+[Day 9](#day9)  
+[Day 10](#day10)  
+[Day 11](#day11)  
+[Day 12](#day12)  
+[Day 13](#day13)  
+[Day 14](#day14) 
+
+### Day 8: March 20, 2022
+
+**Plan For Today**:
+
+- Course work: Finish the flexbox section project [X]
+- introduce week views on the blog [X]
+- transfer layout updates into simstracker project [ ]
+
+**Today's Progress**: Back on track! CodeCademy flexbox project. Flexbox is mighty!
+
+**Thoughts:** After a week of medical things to sort and getting back into my day job I'm finally back on this journey.  
+              I have started with finishing off the Flexbox section of my CodeCademy Course and I do love flexbox there are so many possibilities. The project was essentiall writing up a little website and styling it using flexbox , but it also needed soemposition ing things that I was happy to practice. I got on rather well with that project. There is a link to the compled project below just look for the CodeCademy Project Tea Cozy in the link section below. If you want to see the concept that was given as a guideline to what the project was meant to look like you can find that in the respective repository on my github.  
+              With the might of flexbox at my hands I some work on the navigation for the blog and finally implemented the week nav as well as some additional cleaning up. There is a few more things I want to clean up. I also added some additional future weeks so I can just go and fill them in as I go along, which will make updating this blog a bit quicker (so far up to week 4, the other weeks will still be empty links).  
+              I hope I can do some work tomorrow but I will have to see how much I will get to do after my morning appointment.
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/), [CodeCademy Project Tea Cozy](https://susannebrauer.com/CodeCademyProject-TeaCozy/index.html)
+
+**Course Completion Status at the end of the day:** 12%
+
+### Day 8: March 20, 2022
+
+**Plan For Today**:
+
+- Course work: CSS Grid section [ ]
+- transfer layout updates into simstracker project [ ]
