@@ -236,4 +236,22 @@ I spotted a retweet with a list of CSS exercises to do, which was tweeted by [@c
 - Course Work: finishing the learning for "Making a Website Responsive" chapter [ ]
 - Course Work: finish first project for "Making a Website Responsive" chapter [ ]
 - Transfer layout updates into simstracker project [ ]
+- Work on on of the CSS projects form the day 9 list: [LandingPage](https://t.co/N7BuGi5qk2) [ ]  
+
+**Today's Progress**: CSS grid and relative sizing for responsive designs
+
+**Thoughts:** Diving deeper into CSS grid was exciting. I think the possibilities of combining grid and flexbox could be rather interesting.  
+Maybe I'll finally be able to get a better handle on making sites more responsive, that has previous been difficult for me. I pushed through more of the course than I planned but that cost me the time to work on the Landing page practice, but I will dive into that first thing tomorrow.  
+One great take away for me from today was the difference between 'em' and 'rem'. I knew there were options for sizing, but not quite got their difference. In the end it's not that hard as the R in 'rem' identifies it as relating to the root element. But then I also mistakenigly thought that the root would be the body element and not actually the html element.  
+
+**Link to work:** [Portfolio](http://www.susannebrauer.github.io), [Blog](http://www.susannebrauer.com), [Sims Tracker](http://www.http://simstracker.com/), [CodeCademy Project Dasmoto](http://www.susannebrauer.com/CodeCademyProject-Dasmoto/), [CodeCademy Project Tea Cozy](https://susannebrauer.com/CodeCademyProject-TeaCozy/index.html)
+
+**Course Completion Status at the end of the day:** 13%  
+
+### Day 11: March 23, 2022
+
+**Plan For Today**:
+
 - Work on on of the CSS projects form the day 9 list: [LandingPage](https://t.co/N7BuGi5qk2) [ ]
+- Finish "Learn Responsive Design" section [ ]
+- Transfer layout updates into simstracker project [ ]
